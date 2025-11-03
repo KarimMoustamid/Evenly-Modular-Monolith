@@ -397,4 +397,12 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+# JetBrains / IntelliJ IDE files
+# Ignore project files created by JetBrains IDEs (WebStorm, Rider, CLion, IntelliJ, etc.)
+.idea/
+.idea*/
+*.iml
+*.iws
+# End JetBrains ignores
+
 .containers
